@@ -89,16 +89,3 @@ student-management-system/
 ├── vercel.json                          # Vercel deployment configuration
 └── README.md                            # Project overview
 ```
-
-## Quick Start (Interactive Live Preview)
-
-1. **Install Dependencies**:
-   ```bash
-   npm install
-   ```
-
-2. **Start Development Server**:
-   ```bash
-   npm run dev
-   ```
-   Open `http://localhost:3000` to interact with the full-stack application and live REST API.
